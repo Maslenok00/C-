@@ -1,0 +1,14 @@
+C:\Users\Maslenok\source\repos\Number_3\Number_3\bin\Debug\net8.0\Number_3.exe
+C:\Users\Maslenok\source\repos\Number_3\Number_3\bin\Debug\net8.0\Number_3.deps.json
+C:\Users\Maslenok\source\repos\Number_3\Number_3\bin\Debug\net8.0\Number_3.runtimeconfig.json
+C:\Users\Maslenok\source\repos\Number_3\Number_3\bin\Debug\net8.0\Number_3.dll
+C:\Users\Maslenok\source\repos\Number_3\Number_3\bin\Debug\net8.0\Number_3.pdb
+C:\Users\Maslenok\source\repos\Number_3\Number_3\obj\Debug\net8.0\Number_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maslenok\source\repos\Number_3\Number_3\obj\Debug\net8.0\Number_3.AssemblyInfoInputs.cache
+C:\Users\Maslenok\source\repos\Number_3\Number_3\obj\Debug\net8.0\Number_3.AssemblyInfo.cs
+C:\Users\Maslenok\source\repos\Number_3\Number_3\obj\Debug\net8.0\Number_3.csproj.CoreCompileInputs.cache
+C:\Users\Maslenok\source\repos\Number_3\Number_3\obj\Debug\net8.0\Number_3.dll
+C:\Users\Maslenok\source\repos\Number_3\Number_3\obj\Debug\net8.0\refint\Number_3.dll
+C:\Users\Maslenok\source\repos\Number_3\Number_3\obj\Debug\net8.0\Number_3.pdb
+C:\Users\Maslenok\source\repos\Number_3\Number_3\obj\Debug\net8.0\Number_3.genruntimeconfig.cache
+C:\Users\Maslenok\source\repos\Number_3\Number_3\obj\Debug\net8.0\ref\Number_3.dll
