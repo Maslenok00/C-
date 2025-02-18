@@ -1,0 +1,14 @@
+C:\Users\Maslenok\source\repos\Number_1\Number_1\bin\Debug\net8.0\Number_1.exe
+C:\Users\Maslenok\source\repos\Number_1\Number_1\bin\Debug\net8.0\Number_1.deps.json
+C:\Users\Maslenok\source\repos\Number_1\Number_1\bin\Debug\net8.0\Number_1.runtimeconfig.json
+C:\Users\Maslenok\source\repos\Number_1\Number_1\bin\Debug\net8.0\Number_1.dll
+C:\Users\Maslenok\source\repos\Number_1\Number_1\bin\Debug\net8.0\Number_1.pdb
+C:\Users\Maslenok\source\repos\Number_1\Number_1\obj\Debug\net8.0\Number_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maslenok\source\repos\Number_1\Number_1\obj\Debug\net8.0\Number_1.AssemblyInfoInputs.cache
+C:\Users\Maslenok\source\repos\Number_1\Number_1\obj\Debug\net8.0\Number_1.AssemblyInfo.cs
+C:\Users\Maslenok\source\repos\Number_1\Number_1\obj\Debug\net8.0\Number_1.csproj.CoreCompileInputs.cache
+C:\Users\Maslenok\source\repos\Number_1\Number_1\obj\Debug\net8.0\Number_1.dll
+C:\Users\Maslenok\source\repos\Number_1\Number_1\obj\Debug\net8.0\refint\Number_1.dll
+C:\Users\Maslenok\source\repos\Number_1\Number_1\obj\Debug\net8.0\Number_1.pdb
+C:\Users\Maslenok\source\repos\Number_1\Number_1\obj\Debug\net8.0\Number_1.genruntimeconfig.cache
+C:\Users\Maslenok\source\repos\Number_1\Number_1\obj\Debug\net8.0\ref\Number_1.dll
