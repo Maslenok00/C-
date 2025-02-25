@@ -1,0 +1,14 @@
+C:\Users\Maslenok\source\repos\Number_5_JSON\Number_5_JSON\bin\Debug\net8.0\Number_5_JSON.exe
+C:\Users\Maslenok\source\repos\Number_5_JSON\Number_5_JSON\bin\Debug\net8.0\Number_5_JSON.deps.json
+C:\Users\Maslenok\source\repos\Number_5_JSON\Number_5_JSON\bin\Debug\net8.0\Number_5_JSON.runtimeconfig.json
+C:\Users\Maslenok\source\repos\Number_5_JSON\Number_5_JSON\bin\Debug\net8.0\Number_5_JSON.dll
+C:\Users\Maslenok\source\repos\Number_5_JSON\Number_5_JSON\bin\Debug\net8.0\Number_5_JSON.pdb
+C:\Users\Maslenok\source\repos\Number_5_JSON\Number_5_JSON\obj\Debug\net8.0\Number_5_JSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maslenok\source\repos\Number_5_JSON\Number_5_JSON\obj\Debug\net8.0\Number_5_JSON.AssemblyInfoInputs.cache
+C:\Users\Maslenok\source\repos\Number_5_JSON\Number_5_JSON\obj\Debug\net8.0\Number_5_JSON.AssemblyInfo.cs
+C:\Users\Maslenok\source\repos\Number_5_JSON\Number_5_JSON\obj\Debug\net8.0\Number_5_JSON.csproj.CoreCompileInputs.cache
+C:\Users\Maslenok\source\repos\Number_5_JSON\Number_5_JSON\obj\Debug\net8.0\Number_5_JSON.dll
+C:\Users\Maslenok\source\repos\Number_5_JSON\Number_5_JSON\obj\Debug\net8.0\refint\Number_5_JSON.dll
+C:\Users\Maslenok\source\repos\Number_5_JSON\Number_5_JSON\obj\Debug\net8.0\Number_5_JSON.pdb
+C:\Users\Maslenok\source\repos\Number_5_JSON\Number_5_JSON\obj\Debug\net8.0\Number_5_JSON.genruntimeconfig.cache
+C:\Users\Maslenok\source\repos\Number_5_JSON\Number_5_JSON\obj\Debug\net8.0\ref\Number_5_JSON.dll
