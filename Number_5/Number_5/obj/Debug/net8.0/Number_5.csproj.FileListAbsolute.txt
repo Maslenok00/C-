@@ -1,0 +1,14 @@
+C:\Users\Maslenok\source\repos\Number_5\Number_5\obj\Debug\net8.0\Number_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maslenok\source\repos\Number_5\Number_5\obj\Debug\net8.0\Number_5.AssemblyInfoInputs.cache
+C:\Users\Maslenok\source\repos\Number_5\Number_5\obj\Debug\net8.0\Number_5.AssemblyInfo.cs
+C:\Users\Maslenok\source\repos\Number_5\Number_5\obj\Debug\net8.0\Number_5.csproj.CoreCompileInputs.cache
+C:\Users\Maslenok\source\repos\Number_5\Number_5\bin\Debug\net8.0\Number_5.exe
+C:\Users\Maslenok\source\repos\Number_5\Number_5\bin\Debug\net8.0\Number_5.deps.json
+C:\Users\Maslenok\source\repos\Number_5\Number_5\bin\Debug\net8.0\Number_5.runtimeconfig.json
+C:\Users\Maslenok\source\repos\Number_5\Number_5\bin\Debug\net8.0\Number_5.dll
+C:\Users\Maslenok\source\repos\Number_5\Number_5\bin\Debug\net8.0\Number_5.pdb
+C:\Users\Maslenok\source\repos\Number_5\Number_5\obj\Debug\net8.0\Number_5.dll
+C:\Users\Maslenok\source\repos\Number_5\Number_5\obj\Debug\net8.0\refint\Number_5.dll
+C:\Users\Maslenok\source\repos\Number_5\Number_5\obj\Debug\net8.0\Number_5.pdb
+C:\Users\Maslenok\source\repos\Number_5\Number_5\obj\Debug\net8.0\Number_5.genruntimeconfig.cache
+C:\Users\Maslenok\source\repos\Number_5\Number_5\obj\Debug\net8.0\ref\Number_5.dll
